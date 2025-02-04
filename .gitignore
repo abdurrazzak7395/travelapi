@@ -42,3 +42,7 @@ dist/
 *.spec
 *.tar.gz
 *.zip
+*.pyc
+*.py
+*.py
+baseurl.py
